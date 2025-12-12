@@ -7,7 +7,7 @@
 **Backend:** Java, Spring Boot, REST APIs, JWT, Lombok  
 **Frontend:** React.js, JavaScript, HTML5, CSS3  
 **Databases:** MongoDB, MySQL  
-**Security:** Vulnerability Assessment, Penetration Testing  
+**Security:** Vulnerability Assessment, Junit , Mockito  
 **Tools:** Git, Postman, MongoDB Atlas, HackerRank  
 
 ## 🏆 Featured Projects
